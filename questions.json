@@ -1,0 +1,127 @@
+[
+    {
+        "questions":"Apa yang dimaksud dengan algoritma",
+        "options":["Seperangkat instruksi untuk menyelesaikan masalah", "Bahasa pemrograman tingkat tinggi", "Perangkat keras komputer","Data yang diproses oleh komputer"],
+        "correct":"A"
+    },
+    {
+        "questions":"Manakah yang bukan merupakan struktur kontrol?",
+        "options":["Sequential", "Selection", "Iteration", "Variable"],
+        "correct":"D"
+    },
+    {
+        "questions":"Apa fungsi dari variabel dalam pemrograman?",
+        "options":["Menyimpan nilai yang tidak dapat berubah", "Menyimpan nilai yang dapat berubah", "Mengontrol aliran program", "Mendefinisikan fungsi"],
+        "correct":"B"
+    },
+    {
+        "questions":"Array adalah...",
+        "options":["Kumpulan data dengan tipe yang sama","Fungsi matematika","Perangkat input","Struktur data non-linear"],
+        "correct":"A"
+    },
+    {
+        "questions":"Operator logika AND akan menghasilkan nilai benar jika...",
+        "options":["Salah satu operandnya benar","Kedua operandnya benar","Kedua operandnya salah","Salah satu operandnya salah"],
+        "correct":"B"
+    },
+    {
+        "questions":"Python termasuk dalam jenis bahasa pemrograman...",
+        "options":["Kompilasi","Interpretasi","Assembly","Mesin"],
+        "correct":"B"
+    },
+    {
+        "questions":"Syntax error terjadi ketika...",
+        "options":["Program berjalan tetapi menghasilkan output yang salah","Program tidak dapat dijalankan karena kesalahan penulisan kode","Program berjalan terlalu lambat","Program menggunakan terlalu banyak memori"],
+        "correct":"B"
+    },
+    {
+        "questions":"Konsep utama dalam OOP adalah...",
+        "options":["Prosedur","Fungsi","Objek","Algoritma"],
+        "correct":"C"
+    },
+    {
+        "questions":"Keunggulan Python adalah...",
+        "options":["Cepat sekali dalam eksekusi","Sintaks yang sederhana dan mudah dipelajari","Hanya bisa digunakan untuk data science","Tidak membutuhkan interpreter"],
+        "correct":"B"
+    },
+    {
+        "questions":"Java merupakan bahasa pemrograman yang...",
+        "options":["Tipenya dinamis","Berorientasi objek","Hanya digunakan untuk aplikasi desktop","Tidak membutuhkan compiler"],
+        "correct":"B"
+    },
+    {
+        "questions":"Linked list berbeda dengan array karena...",
+        "options":["Elemennya tidak memiliki indeks","Elemennya harus bertipe data yang sama","Ukurannya tetap","Elemennya tersimpan secara berurutan dalam memori"],
+        "correct":"A"
+    },
+    {
+        "questions":"Stack adalah...",
+        "options":["Struktur data LIFO (Last In, First Out)","Struktur data FIFO (First In, First Out)","Struktur data yang tidak terurut","Struktur data yang hanya bisa menyimpan satu elemen"],
+        "correct":"A"
+    },
+    {
+        "questions":"Tree adalah...",
+        "options":["Struktur data linear","Struktur data hierarkis","Struktur data yang tidak memiliki root","Struktur data yang hanya memiliki satu anak"],
+        "correct":"B"
+    },
+    {
+        "questions":"Algoritma sorting yang paling efisien untuk data yang sudah hampir terurut adalah...",
+        "options":["Bubble sort","Insertion sort","Merge sort","Quick sort"],
+        "correct":"B"
+    },
+    {
+        "questions":"Hash table digunakan untuk...",
+        "options":["Mengurutkan data","Mencari data dengan cepat","Menyimpan data yang sangat besar","Memanipulasi string"],
+        "correct":"B"
+    },
+    {
+        "questions":"Binary search lebih efisien daripada linear search karena...",
+        "options":["Membandingkan semua elemen dalam array","Membagi data menjadi dua bagian secara berulang","Hanya cocok untuk data yang tidak terurut","Menggunakan lebih sedikit memori"],
+        "correct":"B"
+    },
+    {
+        "questions":"Time complexity dari algoritma bubble sort adalah...",
+        "options":["O(1)","O(log n)","O(n)", "O(n^2)"],
+        "correct":"D"
+    },
+    {
+        "questions":"Recursion adalah...",
+        "options":["Proses mengulang suatu blok kode","Fungsi yang memanggil dirinya sendiri","Cara untuk membuat loop", "Teknik untuk mengoptimalkan memori"],
+        "correct":"B"
+    },
+    {
+        "questions":"Dynamic programming digunakan untuk...",
+        "options":["Menyelesaikan masalah dengan membagi menjadi submasalah yang lebih kecil","Mengoptimalkan penggunaan memori","Membuat program yang lebih cepat", "Semua jawaban di atas benar"],
+        "correct":"D"
+    },
+    {
+        "questions":"Greedy algorithm adalah...",
+        "options":["Algoritma yang selalu memilih pilihan terbaik saat ini","Algoritma yang mencari semua kemungkinan solusi","Algoritma yang menggunakan backtracking", "Algoritma yang hanya cocok untuk masalah optimasi"],
+        "correct":"A"
+    },
+    {
+        "questions":"HTML digunakan untuk...",
+        "options":["Menambahkan gaya ke halaman web","Menambahkan interaktivitas ke halaman web","Menentukan struktur konten halaman web", "Mengelola database"],
+        "correct":"C"
+    },
+    {
+        "questions":"JavaScript digunakan untuk...",
+        "options":["Membuat tampilan halaman web","Menambahkan interaktivitas ke halaman web","Mengelola database","Semua jawaban di atas salah"],
+        "correct":"B"
+    },
+    {
+        "questions":"Framework web digunakan untuk...",
+        "options":["Mempercepat pengembangan web","Menyediakan struktur dan komponen yang siap pakai","Meningkatkan keamanan aplikasi","Semua jawaban di atas benar"],
+        "correct":"B"
+    },
+    {
+        "questions":"API adalah...",
+        "options":["Bahasa pemrograman untuk membuat aplikasi mobile","Antarmuka yang memungkinkan aplikasi berbeda untuk berkomunikasi","Database yang sangat besar","Perangkat keras untuk menjalankan aplikasi web"],
+        "correct":"A"
+    },
+    {
+        "questions":"SQL digunakan untuk...",
+        "options":["Memanipulasi data dalam database relasional","Membuat desain web","Mengelola sistem operasi","Semua jawaban di atas salah"],
+        "correct":"A"
+    }
+]
